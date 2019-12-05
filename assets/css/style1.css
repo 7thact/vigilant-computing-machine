@@ -1,0 +1,28 @@
+/**
+ * Float Layout Activity
+ **/
+
+ * {
+    box-sizing: border-box;
+    text-align:;
+    
+  }
+
+    .picofme {
+        float: left;
+}
+  
+    p{
+    font-size: 20px;
+    line-height: 30px;
+    }
+
+
+
+    footer {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #FFA500;
+  }
+  
