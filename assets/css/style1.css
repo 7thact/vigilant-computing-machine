@@ -4,25 +4,34 @@
 
  * {
     box-sizing: border-box;
-    text-align:;
-    
+    margin: 80;
+    padding: 20px;   
+  }
+
+
+  }
+
+  body {
+    background: grey;
+
   }
 
     .picofme {
         float: left;
 }
   
-    p{
-    font-size: 20px;
+    p {
+    font-size: 25px;
     line-height: 30px;
     }
 
 
 
     footer {
-    padding: 20px;
-    margin-bottom: 20px;
+    padding: 10px;
+    margin-bottom: none;
     color: #333;
     background: #FFA500;
+    text-align: center;
   }
   
