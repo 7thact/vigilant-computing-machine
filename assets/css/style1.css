@@ -4,8 +4,8 @@
 
  * {
     box-sizing: border-box;
-    margin: 80;
-    padding: 20px;   
+    margin: 0;
+    padding: 10px;   
   }
 
 
@@ -27,11 +27,14 @@
 
 
 
-    footer {
-    padding: 10px;
-    margin-bottom: none;
-    color: #333;
-    background: #FFA500;
-    text-align: center;
+    .footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: orange;
+      color: black;
+      text-align: center;
+   };
   }
   
